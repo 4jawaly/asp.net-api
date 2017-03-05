@@ -1,0 +1,10 @@
+E:\Asp.net\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\bin\Asp.Net_Csharp_Application.dll
+E:\Asp.net\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\bin\Asp.Net_Csharp_Application.pdb
+E:\Asp.net\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\obj\Release\ResolveAssemblyReference.cache
+E:\Asp.net\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\obj\Release\Asp.Net_Csharp_Application.dll
+E:\Asp.net\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\obj\Release\Asp.Net_Csharp_Application.pdb
+C:\Users\DELL\Desktop\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\bin\Asp.Net_Csharp_Application.dll.config
+C:\Users\DELL\Desktop\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\bin\Asp.Net_Csharp_Application.dll
+C:\Users\DELL\Desktop\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\bin\Asp.Net_Csharp_Application.pdb
+C:\Users\DELL\Desktop\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\obj\Release\Asp.Net_Csharp_Application.dll
+C:\Users\DELL\Desktop\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\Asp.Net_Csharp_Application\obj\Release\Asp.Net_Csharp_Application.pdb
